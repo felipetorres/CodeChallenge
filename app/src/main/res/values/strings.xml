@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Code Challenge</string>
+
+    <string name="cart_checkout_button">Proceed to checkout</string>
+    <string name="loading">Loading…</string>
+    <string name="product_add_button">Add</string>
+    <string name="total_label">Total:</string>
+</resources>
